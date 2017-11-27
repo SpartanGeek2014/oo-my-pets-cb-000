@@ -1,6 +1,6 @@
 class Owner
   # code goes here
-  attr_accessor :pets, :owner
+  attr_accessor :pets
 
   def initialize(owner, pets)
     @owner = []

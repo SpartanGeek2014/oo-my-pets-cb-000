@@ -12,5 +12,5 @@ class Owner
     @@owner = owner
     owner
   end
-  
+
 end

@@ -8,4 +8,9 @@ class Owner
     @pets = pets
   end
 
+  def owner
+    @@owner = owner
+    owner
+  end
+  
 end
